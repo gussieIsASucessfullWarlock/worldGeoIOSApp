@@ -2,7 +2,7 @@
 <p>This is an IOS app that I made for my world geography board game.</p>
 
 <h3>How to use:</h3>
-<p>This game was made in SwiftUI. To run it, download the "Geo Board Game" folder onto a mac and open it up in Xcode. Then press the play button up at the top. Xcode will start compiling and launching the app in a simulator or selected Apple device.</p>
+<p>I made this game in SwiftUI. To run it, download the "Geo Board Game" folder onto a mac and open it up in Xcode. Then press the play button up at the top. Xcode will start compiling and launching the app in a simulator or selected Apple device.</p>
 <a href="https://developer.apple.com/xcode/">Download Xcode</a>
 
 <h3>Screen Shots:</h3>
