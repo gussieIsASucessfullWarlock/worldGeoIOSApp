@@ -3,7 +3,7 @@
 
 <h3>How to use:</h3>
 <p>I made this game in SwiftUI. To run it, download the "Geo Board Game" folder onto a mac and open it up in Xcode. Then press the play button up at the top. Xcode will start compiling and launching the app in a simulator or selected Apple device.</p>
-<a href="https://developer.apple.com/xcode/" target=blank>Download Xcode</a>
+<a href="https://developer.apple.com/xcode/" target="_blank" >Download Xcode</a>
 
 <h3>Screen Shots:</h3>
 <img src='https://user-images.githubusercontent.com/82612866/170797871-b3fdf763-653d-4eb1-b535-ea848568118e.png' width=250px alt='Add Users'/>
